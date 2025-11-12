@@ -29,5 +29,4 @@ El proyecto está desarrollado en **Python 3**, usando las siguientes biblioteca
 
 ---
 
-## 📁 Estructura del proyecto
 
